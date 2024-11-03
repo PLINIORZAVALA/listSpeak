@@ -1,0 +1,7 @@
+Avance
+Fecha: 02/11/2024
+ - Se hizo escucha Activa con Pagina de inicio, con paso 1, 2 y 3
+
+Avance por hacer
+Fecha: 02/11/2024
+ - Hacer que en todos los pasos ahiga espacio para escribir y validad si lo que entendio lo puede plasmar en ese campo
