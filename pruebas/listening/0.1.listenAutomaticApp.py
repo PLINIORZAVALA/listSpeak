@@ -1,3 +1,4 @@
+# Proceso para que la interfas haga escuchar el audio de la palabra
 from translate import Translator
 import pyttsx3
 import tkinter as tk
