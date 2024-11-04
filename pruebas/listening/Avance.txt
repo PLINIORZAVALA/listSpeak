@@ -5,3 +5,12 @@ Fecha: 02/11/2024
 Avance por hacer
 Fecha: 02/11/2024
  - Hacer que en todos los pasos ahiga espacio para escribir y validad si lo que entendio lo puede plasmar en ese campo
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Avance
+fecha: 03/11/2024
+ - Se hizo la interfas para realizar multiples procesos y no solo uno como estaba el anterior codigo
+
+Avance por hacer:
+Fecha: 03/11/2024
+ - El avance anterior no se hizo a si que seria el pendiente 
